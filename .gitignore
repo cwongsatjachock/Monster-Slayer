@@ -1,0 +1,11 @@
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
+run
+test
+savegame.txt
+
+.vscode/
+build/
+lib/
